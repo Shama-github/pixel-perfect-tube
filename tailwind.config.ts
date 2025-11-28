@@ -47,15 +47,17 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        youtube: {
+          red: "hsl(var(--youtube-red))",
+          black: "hsl(var(--youtube-black))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
-          foreground: "hsl(var(--sidebar-foreground))",
-          primary: "hsl(var(--sidebar-primary))",
-          "primary-foreground": "hsl(var(--sidebar-primary-foreground))",
-          accent: "hsl(var(--sidebar-accent))",
-          "accent-foreground": "hsl(var(--sidebar-accent-foreground))",
-          border: "hsl(var(--sidebar-border))",
-          ring: "hsl(var(--sidebar-ring))",
+          hover: "hsl(var(--sidebar-hover))",
+        },
+        chip: {
+          DEFAULT: "hsl(var(--chip-background))",
+          active: "hsl(var(--chip-active))",
         },
       },
       borderRadius: {

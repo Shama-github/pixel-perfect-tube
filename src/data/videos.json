@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Building a Modern Web Application from Scratch",
+    "channel": "Tech Academy",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=TA",
+    "views": "2.5M",
+    "timestamp": "3 days ago",
+    "duration": "15:24",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "2",
+    "title": "Complete React Tutorial for Beginners 2024",
+    "channel": "Code Masters",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=CM",
+    "views": "5.2M",
+    "timestamp": "1 week ago",
+    "duration": "45:12",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "3",
+    "title": "10 JavaScript Tips Every Developer Should Know",
+    "channel": "Dev Tips Daily",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=DT",
+    "views": "892K",
+    "timestamp": "5 days ago",
+    "duration": "12:45",
+    "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "4",
+    "title": "Full Stack Development Roadmap 2024",
+    "channel": "Career Path",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=CP",
+    "views": "3.1M",
+    "timestamp": "2 weeks ago",
+    "duration": "28:30",
+    "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "5",
+    "title": "CSS Grid vs Flexbox: Which One Should You Use?",
+    "channel": "Design Code",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=DC",
+    "views": "1.4M",
+    "timestamp": "4 days ago",
+    "duration": "18:22",
+    "thumbnail": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "6",
+    "title": "Build a REST API with Node.js and Express",
+    "channel": "Backend Masters",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=BM",
+    "views": "987K",
+    "timestamp": "1 week ago",
+    "duration": "32:15",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "7",
+    "title": "TypeScript Crash Course - Learn in 30 Minutes",
+    "channel": "Quick Learn",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=QL",
+    "views": "2.8M",
+    "timestamp": "6 days ago",
+    "duration": "30:18",
+    "thumbnail": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "8",
+    "title": "Advanced Git Techniques for Team Collaboration",
+    "channel": "Version Control Pro",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=VC",
+    "views": "654K",
+    "timestamp": "3 days ago",
+    "duration": "22:40",
+    "thumbnail": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "9",
+    "title": "Docker Tutorial for Beginners - Containerization Made Easy",
+    "channel": "DevOps Guide",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=DG",
+    "views": "1.9M",
+    "timestamp": "1 week ago",
+    "duration": "41:05",
+    "thumbnail": "https://images.unsplash.com/photo-1605745341112-85968b19335b?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "10",
+    "title": "UI/UX Design Principles Every Developer Must Know",
+    "channel": "Design & Code",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=D&C",
+    "views": "3.5M",
+    "timestamp": "2 days ago",
+    "duration": "25:33",
+    "thumbnail": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "11",
+    "title": "Python for Data Science - Complete Beginner's Guide",
+    "channel": "Data Science Hub",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=DS",
+    "views": "4.2M",
+    "timestamp": "1 week ago",
+    "duration": "52:10",
+    "thumbnail": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=225&fit=crop"
+  },
+  {
+    "id": "12",
+    "title": "Responsive Web Design - Mobile First Approach",
+    "channel": "Web Design Pro",
+    "channelAvatar": "https://api.dicebear.com/7.x/initials/svg?seed=WD",
+    "views": "1.7M",
+    "timestamp": "5 days ago",
+    "duration": "19:28",
+    "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=225&fit=crop"
+  }
+]
