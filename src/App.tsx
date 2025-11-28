@@ -20,7 +20,7 @@ const App = () => (
       <BrowserRouter>
         <MainLayout>
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/pixel-perfect-tube" element={<Home />} />
             <Route path="/explore" element={<Explore />} />
             <Route path="/shorts" element={<Shorts />} />
             <Route path="/subscriptions" element={<Subscriptions />} />
