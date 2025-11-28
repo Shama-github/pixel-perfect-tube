@@ -1,12 +1,15 @@
 import { Menu, Search, Mic, Video, Bell, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { useSearch } from "@/hooks/use-search";
 
 interface NavbarProps {
   onMenuClick: () => void;
 }
 
 const Navbar = ({ onMenuClick }: NavbarProps) => {
+  const { query, setQuery } = useSearch();
+
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-background border-b border-border h-14 flex items-center px-4 gap-4">
       <div className="flex items-center gap-4 flex-shrink-0">
@@ -33,6 +36,8 @@ const Navbar = ({ onMenuClick }: NavbarProps) => {
           <Input
             type="text"
             placeholder="Search"
+            value={query}
+            onChange={(event) => setQuery(event.target.value)}
             className="rounded-l-full rounded-r-none border-r-0 h-10 focus-visible:ring-0 focus-visible:ring-offset-0 focus-visible:border-primary"
           />
           <Button
